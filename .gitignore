@@ -1,3 +1,5 @@
 .osgrep
 .DS_Store
 dist/
+.gooze-reports
+.gooze.log*
